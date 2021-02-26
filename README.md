@@ -20,8 +20,8 @@ Please make sure to update tests as appropriate.
 ## Screenshots
 
 ### Screenshots
-![Screenshot (1263)](https://user-images.githubusercontent.com/36938805/109261302-dcfc2080-77bc-11eb-9fc2-0d10a601ec06.png)
-![Screenshot (1259)](https://user-images.githubusercontent.com/36938805/109261308-dd94b700-77bc-11eb-9b8e-27aadcf2b491.png)
-![Screenshot (1260)](https://user-images.githubusercontent.com/36938805/109261314-df5e7a80-77bc-11eb-88fb-6af1d2fe3be4.png)
-![Screenshot (1261)](https://user-images.githubusercontent.com/36938805/109261321-e08fa780-77bc-11eb-9703-94fb5ded6ddd.png)
-![Screenshot (1262)](https://user-images.githubusercontent.com/36938805/109261327-e1c0d480-77bc-11eb-977a-8fa0bda4efd9.png)
+![Screenshot (1261)](https://user-images.githubusercontent.com/36938805/109263090-eb980700-77bf-11eb-868d-1f611554f599.png)
+![Screenshot (1262)](https://user-images.githubusercontent.com/36938805/109263092-ec309d80-77bf-11eb-8be2-0fd19cd21d76.png)
+![Screenshot (1263)](https://user-images.githubusercontent.com/36938805/109263094-ecc93400-77bf-11eb-8f4b-2832164c4b2a.png)
+![Screenshot (1259)](https://user-images.githubusercontent.com/36938805/109263096-ecc93400-77bf-11eb-9520-c00582ac6299.png)
+
